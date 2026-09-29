@@ -1,0 +1,6 @@
+{
+  "name": "Knowledgify",
+  "description": "Knowledgify is a centralized context middleware and orchestration workspace for interacting with multiple LLMs, shared memory, and prompt management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
