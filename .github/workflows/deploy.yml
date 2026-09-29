@@ -36,9 +36,6 @@ jobs:
       - name: Build
         run: npm run build
         env:
-          - name: Build
-        run: npm run build
-        env:
           VITE_BASE_PATH: /${{ github.event.repository.name }}/
 
       - name: Setup GitHub Pages
